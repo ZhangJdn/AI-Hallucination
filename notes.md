@@ -55,6 +55,3 @@ The JSON value matched column 1 (current quarter) every time.
   - Could be a validation rule for the cascade: if the model's EPS is far from net income / shares, escalate.
 - Last year's quarter (94,036 / 23,434 / 1.57) also appears in this filing. That's why the JSON has so many duplicate entries.
 
-## Questions
-
-- (add yours here after looking at the filing)

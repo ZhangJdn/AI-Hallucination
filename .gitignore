@@ -1,3 +1,19 @@
+# Python
 .venv/
-data/raw/
 __pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Secrets: API keys go in .env, never in code
+.env
+.env.*
+
+# Big downloads you can re-fetch for free
+data/raw/
+data/filings/
+
+# Editor and OS clutter
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
